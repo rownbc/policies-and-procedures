@@ -52,6 +52,7 @@ Private shell storage policy
 --------------------------------------------------------------------------------
 
 These are the club goals related to racks, in priority order:
+
   - Meet demand for boats at times of highest demand (currently 5:45 am – 7 am weekdays and 6:30 – 8AM weekends plus certain high demand lesson and/or program periods, as identified by the Director of Rowing)
   - Increase club revenues to the extent practicable
   - Minimize normal wear and tear on club boats
@@ -84,6 +85,7 @@ These are the club goals related to racks, in priority order:
 
 Private oar storage policy
 --------------------------------------------------------------------------------
+
   a. All Club members are encouraged to use Club oars.
   b. The fee to store private oars in the boathouse shall be determined annually by the BOG.
   c. A club member may store no more than one set of oars at the boat club without permission from the Board of Governors or the Captain.
@@ -114,14 +116,14 @@ Use only those shells you are certified to use by the Captain. Unless you are us
 Taking out a shell
 --------------------------------------------------------------------------------
 
-a. Single shell usage is on a first come first serve basis. Conflicts should be resolved between conflicting parties, however if no satisfactory resolution is available parties should contact the Captain.
-b. Doubles and Quads have the highest demand and have an online signup sheet that can be accessed on the shared Google Doc called NBC Boat Signup Form. This form is also available on the website under Member Resources. If you have forgotten the password, please write webmaster@rownbc.org or the Captain.
-c. If needed, clean any dirt or grime from the oar sleeves Put your oars on the dock with blades facing up and, if they're not already there, bring down a pair of slings, a bucket and sponges.
-d. If you are unsure of yourself, arrange for help carrying your shell to the water. Make sure you have a clear pathway to the dock. Before taking your shell off the rack use a Styrofoam block to raise the shell on the rack above yours. Do not bump your oarlocks, riggers or hull into the other shells. As you walk your shell out of the house hold the boat securely and be wary of other shells and gusts of wind.
-e. Once your shell is on the water or in the slings, check it for damage and for tightness of oarlock, rigger and boot-stretcher hardware. Make sure your boat has a bow ball and functioning heel restraints. Be aware of motorboat traffic: if there are any wakes, hold your shell away from the dock. Put oars into the oarlocks, dockside first. The red tape on the oars is for the port side, green for starboard. Do not jam the shafts into the oarlocks. Make sure the oarlocks are closed before getting into the shell.
-f. Shut the overhead door by pushing the button to the right of the door.
-g. Upon returning to the dock, to open the door, punch the code into the gray box to the left side of the
-overhead door.
+  a. Single shell usage is on a first come first serve basis. Conflicts should be resolved between conflicting parties, however if no satisfactory resolution is available parties should contact the Captain.
+  b. Doubles and Quads have the highest demand and have an online signup sheet that can be accessed on the shared Google Doc called NBC Boat Signup Form. This form is also available on the website under Member Resources. If you have forgotten the password, please write webmaster@rownbc.org or the Captain.
+  c. If needed, clean any dirt or grime from the oar sleeves Put your oars on the dock with blades facing up and, if they're not already there, bring down a pair of slings, a bucket and sponges.
+  d. If you are unsure of yourself, arrange for help carrying your shell to the water. Make sure you have a clear pathway to the dock. Before taking your shell off the rack use a Styrofoam block to raise the shell on the rack above yours. Do not bump your oarlocks, riggers or hull into the other shells. As you walk your shell out of the house hold the boat securely and be wary of other shells and gusts of wind.
+  e. Once your shell is on the water or in the slings, check it for damage and for tightness of oarlock, rigger and boot-stretcher hardware. Make sure your boat has a bow ball and functioning heel restraints. Be aware of motorboat traffic: if there are any wakes, hold your shell away from the dock. Put oars into the oarlocks, dockside first. The red tape on the oars is for the port side, green for starboard. Do not jam the shafts into the oarlocks. Make sure the oarlocks are closed before getting into the shell.
+  f. Shut the overhead door by pushing the button to the right of the door.
+  g. Upon returning to the dock, to open the door, punch the code into the gray box to the left side of the
+  overhead door.
 
 Getting into the boat
 --------------------------------------------------------------------------------
@@ -138,6 +140,7 @@ Rowing on the river
 
 Navigation of Eights and Fours is done by a coxswain. It is important to pay attention to the Coxswains’ commands at all times. Be aware of everything around you at all times; don't assume anything; leave nothing to doubt. Do not try to row any harder than your ability to maintain safe control. It is more important to develop a smooth style than a strong but sloppy one. The Seekonk is a tidal river with strong currents and eddies, especially near its bridges. Be careful. The following rules are written for Scullers and Coxswains, however, it is important for all rowers to understand navigation of the Seekonk.
 Follow these common-sense rules:
+
   a. When rowing up river, keep to the East Providence half of the channel or river. When going down river towards the bay, stay on the Providence side. All traffic should pass port to port.
   b. When rowing with other boats, always make steering allowances for your companions. Don't cut them off when you steer around buoys and give them plenty of room when you pass through bridges. If you're in a narrow spot with traffic coming against you, move to the starboard side in single file. If a faster boat is overtaking you, move to starboard.
   c. If faster boats are approaching, always move to the starboard side of the river to be overtaken.
@@ -151,6 +154,7 @@ Follow these common-sense rules:
   k. During Head racing season (autumn) the Head of the Seekonk (“HOTS”) course (see NBC website for course map) may be closed on Saturday mornings between 6:30-8AM as boats are participating in training pieces. Members not participating should avoid this section of the Seekonk during these times. Notice will be provided by Google groups and signage on dock. This practice event is open to all members.
 
 ### Basic Rowing Navigation Rules for the Seekonk ###
+
   1. All boats should pass port to port. Please move as far to starboard as possible to allow oncoming traffic adequate clearance. Keep to the right, stay out of the middle.
   2. Slower traffic must yield and move to starboard (right as you face bow) to allow faster traffic through.
   3. Shells turning around must check in all directions to be sure not to interfere with other boats traveling the river.
@@ -158,6 +162,7 @@ Follow these common-sense rules:
   5. If you see a shell approaching and the rower(s)/coxswain is not where he/she should be, let them know. Communicate.
 
 #### Navigation Rules for the Seekonk Northbound Shells ####
+
   1. All shells must pass through the main arch of all bridges when rowing north. The only exception is for Brown University boats launching north from the Marston Boathouse.
   2. Brown University boats launching north from the “Marston Boathouse Arch” shall cross over into the channel soon after buoy #1 and assume normal navigation rules.
   3. After passing through the Railroad Bridge all shells should immediately turn to starboard and stay close to the East Providence shore thereby giving oncoming traffic plenty of clearance in this narrow part of the river. Coxswains aim for the blue building on the foundation of the old Red Bridge.
@@ -168,6 +173,7 @@ Follow these common-sense rules:
   8. After passing the starting line and when passing buoy #17 shells should cut back into the channel and continue normal navigation rules to Pawtucket.
 
 #### Navigation Rules for the Seekonk Southbound Shells ####
+
   1. Form Pawtucket stay to the starboard side of the channel. If you are going up the race course, cut to starboard (to the Providence shore) after buoy #19 heading for Swan Point. Watch for Brown University starting stakes in the river during the spring.
   2. After passing Swan Point aim for the Narragansett Boat Club. This will put you in lane 1.
   3. Stay 20 – 30 feet clear of the Narragansett Boat Club docks when passing. Bear in mind that there are often 5-10 boats launching or landing at the same time. During the summer months there are countless boats in front of the boathouse, many of the scullers are beginners who are instructed to stay close to the docks in a “holding pattern”. This means they will be rowing in an oval pattern from the docks to the finish line, cutting across the river and travelling north to the red buoy #6 then crossing back to complete the oval.
@@ -194,6 +200,7 @@ Docking
 
 Putting your shell away
 --------------------------------------------------------------------------------
+
   a. Carefully remove the oars from your oarlocks, riverside oars first. Close the gates to your oarlocks. Pick up your shell and place it onto the slings. Take your time. If the shell is too heavy, or if it is windy, get help.
   b. Open drain plugs to release any water, which may have entered. Open the ventilation ports. Wash the hull; tracks and riggers with soapy water then rinse the hull, cockpit, decking and oars with fresh water. Pay special attention to rinsing metal parts (tracks, oarlocks, seat axles), which quickly deteriorate if any salt-water remains on them. As often as possible but no less than once a week, clean your shell with a sponge and soapy water. Do not use cleaners that contain any abrasives that will harm the hull. Dish soap or similar liquid soap will remove grease, tar, or oil. Check the shell for damage or equipment problems. Please try to avoid wetting shoes in any boat.
   c. Before putting your shell away, make sure you have a clear pathway into the boathouse, to the rack, and that a Styrofoam block is propping up the shell above the rack intended for your boat.
@@ -201,6 +208,7 @@ Putting your shell away
 
 Damage to Equipment
 --------------------------------------------------------------------------------
+
   a. The person(s) rowing when the damage occurs must take full responsibility for the repair, regardless of the cause of the accident. The rower(s) may not row until the repair and transportation is arranged and the captain or lieutenant confirms this is so in writing. The rower(s) must pay the deductible and the transportation costs. Deductibles (the cost paid by the rower(s)) is/are as follows: Single Double Four or quad Eight $250.00 $350.00 $500.00 $1000.00
   b. Boats should be returned from repairs as quickly as possible. Waiting for the repair shop to drive this way with their trailer is not acceptable. If it costs something to arrange for a pick up or return, the cost is born 100% by the crew.
   c. The rower(s) is/are responsible for a boat once the rower(s) or the rower’s agent removes it from the rack. That includes all on water and off water incidents regardless of the circumstances, the only exception being a volunteer transporting a boat for the benefit of the club. A rower or group of rowers who choose to put a boat on a trailer for transportation to a regatta is responsible as described above for any damage to the boat that occurs during transportation.
