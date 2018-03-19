@@ -1,0 +1,8 @@
+[submodule ".github"]
+	path = .github
+	url = https://github.com/rownbc/.github.git
+	update = rebase
+	branch = master
+	fetchRecurseSubmodules = true
+	ignore = all
+	shallow = true
